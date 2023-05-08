@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+
+
+body {
+    background-color: rgb(120, 187, 120);
+}
+
+header {
+    color: white;
+    text-shadow: 1px 0px black;
+    text-align: center;
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.39), rgb(120, 187, 120));
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.37);
+}
+
+#principal {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav{
+    padding-top: 20px;
+    text-align: left;
+}
+
+nav > a {
+    color: white;
+    text-decoration: none;
+    padding-left: 15px;
+}
+
+main {
+    background-color: white;
+}
+
+#secundario {
+    font-family: Malcom;
+    color: darkgreen;
+}
+
+h2 {
+    background-image: linear-gradient(to right, rgb(120, 187, 120), white);
+    font-family: Malcom;
+    color:darkgreen;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
